@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(104,187,285);
+}
+header {
+    display: block;
+} 
+
+h1
+{
+text-align: center;
+font-size: 30px;
+}
+
+h2
+{
+text-align: left;
+font-size: 20px;
+}
+
+
+#left-box
+{
+	float: left;
+	background-color: rgb(9,30,45);
+	color: FFFFFF;
+	width: 300px;
+
+}
+
+#photologo
+{
+	text-align: center;
+}
+
+#experiences-box
+{
+	background-color: FFFFFF;
+}
+
+
+#studies-box
+{
+	background-color: FFFFFF;
+}
